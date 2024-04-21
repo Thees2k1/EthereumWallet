@@ -1,4 +1,4 @@
-# crypto_wallet_traning
+# Ethereum wallet
 
 A new Flutter project.
 
